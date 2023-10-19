@@ -23,8 +23,11 @@ Clicking on jobs from the above tabs or categories will redirect the user to the
 All of this is done using an API Call from RapidAPI services. The name of the API is jsearch.
 
 This app best works with light mode , it needs some further works in dark mode for complete functionability.
+![WhatsApp Image 2023-10-19 at 20 35 07_081dc713](https://github.com/pratyush-b2002/Job_Searching_Application/assets/144429844/22b82062-e823-4ef5-897e-5e6ca3e29781)
+![WhatsApp Image 2023-10-19 at 20 35 07_a5dd1608](https://github.com/pratyush-b2002/Job_Searching_Application/assets/144429844/d2d4f316-cb9d-4968-b936-3d100e1bcb1b)
+![WhatsApp Image 2023-10-19 at 20 35 07_f509210f](https://github.com/pratyush-b2002/Job_Searching_Application/assets/144429844/02c1e457-88ee-44ba-9558-14a1200cf676)
+![WhatsApp Image 2023-10-19 at 20 35 08_c87579c8](https://github.com/pratyush-b2002/Job_Searching_Application/assets/144429844/f3d1967e-f8e9-44a2-82e4-db31c3c78f7a)
 
-![Alt text](<WhatsApp Image 2023-10-19 at 20.35.07_88872726.jpg>)
-![Alt text](<WhatsApp Image 2023-10-19 at 20.35.07_ae707b45.jpg>)
-![Alt text](<WhatsApp Image 2023-10-19 at 20.35.07_d31b3441.jpg>)
-![Alt text](<WhatsApp Image 2023-10-19 at 20.35.08_e088ca3d.jpg>)
+
+
+
